@@ -1,4 +1,4 @@
-# traffic sign detection <a href="https://colab.research.google.com/github/ptran1203/traffic_sign_detection/blob/main/traffic_signs_detection.ipynb" target="_parent"><img src="https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667" alt="Open In Colab" data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg"></a>
+# Traffic Sign Detection
 
 <!-- Original dataset of competition:
 + Train: https://dl.challenge.zalo.ai/traffic-sign-detection/data/za_traffic_2020.zip
